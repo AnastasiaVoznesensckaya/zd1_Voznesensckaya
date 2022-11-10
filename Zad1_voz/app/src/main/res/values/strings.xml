@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zad1_voznesensckaya</string>
+    <string name="input">Войти</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="result">Результаты</string>
+</resources>

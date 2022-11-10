@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filmNames">
+        <item>Будка поцелуев</item>
+        <item>Сборник "Гарри Поттер"</item>
+        <item>Фантастические твари</item>
+        <item>Барби</item>
+        <item>Lego Movie</item>
+        <item>50 оттенков серого</item>
+        <item>Майор Гром</item>
+        <item>Достать ножи</item>
+    </string-array>
+</resources>
